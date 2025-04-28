@@ -11,9 +11,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-rdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </a>
   
-  <!-- Exibe as principais linguagens com ajustes -->
+  <!-- Exibe as principais linguagens (JS, SQL, Python, etc) -->
   <a href="https://github.com/anderson-rdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-rdev&layout=compact&langs_count=8&theme=dracula&hide=python" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-rdev&layout=compact&langs_count=8&theme=dracula" />
   </a>
 </div>
 
