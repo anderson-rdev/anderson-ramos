@@ -15,6 +15,9 @@
   <a href="https://github.com/anderson-rdev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-rdev&layout=compact&langs_count=8&theme=dracula" />
   </a>
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-rdev&layout=compact&langs_count=8&theme=dracula" />
+ 
 </div>
 
 <div style="display: inline_block"><br>
