@@ -1,9 +1,8 @@
- ## Prazer, me chamo Anderson 
+Prazer, sou o Anderson 👋
 
-
-- 🧑‍💻 Estou trabalhando atualmente com Back-End
-- 🖥️ Cursando Sistemas de Informação
-- 🐍 Estudando Python
+- 🧑‍💻 Atualmente atuo na área de Back-End
+- 🖥️ Graduando em Sistemas de Informação
+- 🐍 Aprofundando meus conhecimentos em Python
   
 <div>
   <!-- Exibe as estatísticas do GitHub -->
