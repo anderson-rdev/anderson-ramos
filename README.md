@@ -7,7 +7,6 @@
 ---
 
 🚀 Minhas Estatísticas no GitHub
-📊 Acompanhe abaixo meu desempenho no GitHub — incluindo contribuições, repositórios mais utilizados e linguagens favoritas:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"> <a href="https://github.com/anderson-rdev"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-rdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Anderson no GitHub"/> </a> <a href="https://github.com/anderson-rdev"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-rdev&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas"/> </a> </div>
 
