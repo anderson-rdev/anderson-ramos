@@ -61,11 +61,3 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-rdev&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=anderson-rdev&theme=tokyonight" />
 </div>
-
----
-
-## 🐍 Minha Jornada de Contribuições
-
-<div align="center">
-  <img src="https://github.com/anderson-rdev/anderson-rdev/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</div>
